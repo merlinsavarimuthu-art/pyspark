@@ -33,7 +33,7 @@ display(result)
 
 ## Output
 
-![Output](output.png)
+![Output](/output/output.png)
 
 ---
 
