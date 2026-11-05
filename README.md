@@ -1,14 +1,24 @@
-# PySpark Interview Questions & Solutions
+# PySpark Solutions
 
-A collection of PySpark interview problems I solved while transitioning from Full Stack .NET Development to Data Engineering.
+Collection of PySpark interview questions and coding exercises.
 
-Topics Covered:
+## Solved Problems
+
+| # | Problem |
+|---|----------|
+| 1 | [Load and Transform Data](./01-load-transform-data) |
+
+## Skills Covered
+
 - DataFrames
+- CSV Processing
 - Filtering
+- Transformations
 - Aggregations
 - Joins
 - Window Functions
 - Spark SQL
-- ETL Scenarios
 
-Solved Problems: 25+
+## Author
+
+Merlin Savarimuthu
