@@ -1,0 +1,6 @@
+employee_id,employee_name,department,salary,manager_id
+E001,Asha,IT,80000,M001
+E002,Vikram,IT,95000,M001
+E003,Neha,HR,70000,M002
+E004,Karan,HR,75000,M002
+E005,Ravi,IT,95000,M001

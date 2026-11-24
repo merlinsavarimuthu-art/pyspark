@@ -5,7 +5,7 @@ spark = SparkSession.builder.appName("Spark Playground").getOrCreate()
 df = spark.read \
     .option("header", True) \
     .option("inferSchema", True) \
-    .csv("/datasets/customers.csv")
+    .csv("/workspaces/pyspark/datasets/customers.csv")
 
 result = df.filter("purchase_amount > 100")\
             .where("age >= 30")\
